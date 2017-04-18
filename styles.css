@@ -1,0 +1,21 @@
+#header {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+  position: absolute;
+  z-index: 10;
+}
+
+#splash {
+  height: 105%;
+  width: 100%
+  background-color: white;
+  position: relative;
+}
+
+#contact {
+  height: 500px;
+  width: 100%;
+  background-color: black;
+  position: relative;
+}
